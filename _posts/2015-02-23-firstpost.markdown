@@ -6,4 +6,6 @@ categories: blog update
 ---
 This is the _first_ *post* on this blog!
 
+![Me]({{ site.baseurl }}/images/khal.jpg)
+
 [facebook]: http://facebook.com
