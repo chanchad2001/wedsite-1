@@ -8,4 +8,6 @@ This is the _first_ *post* on this blog!
 
 ![Me]({{ site.baseurl }}/images/khal.jpg)
 
+[link][facebook]
+
 [facebook]: http://facebook.com
