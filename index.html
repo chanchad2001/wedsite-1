@@ -2,18 +2,26 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" style="min-height:300px;">
+	
+  <div style="float:left;width:75%;">
+	<h1>Welcome</h1>
+	<p>stuff</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </div>	
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <div style="float:right;width:25%;">
+	  <ul class="post-list" style="border-left: 1px solid #666; padding-left:10px; ">
+	    {% for post in site.posts %}
+	      <li>
+	        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+	        <h2>
+	          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	        </h2>
+	      </li>
+	    {% endfor %}
+	  </ul>
+  </div>
 
 </div>
