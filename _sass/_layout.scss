@@ -2,9 +2,13 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+
     min-height: 56px;
+	background-image: url('/images/skyline.png'); 
+	background-repeat: no-repeat; 
+	background-position: center top;
+	background-size:cover;
+	padding-bottom:160px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -92,6 +96,11 @@
 }
 
 
+.home, .post {
+    background-color: $grey-color-light;
+    padding: $spacing-unit /2;
+	box-shadow: 2px 2px 2px #888888;
+}
 
 /**
  * Site footer
