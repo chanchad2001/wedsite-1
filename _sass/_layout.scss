@@ -2,6 +2,11 @@
  * Site header
  */
 .site-header {
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
+.site-banner {
 	background-image: url('/images/skyline.png'); 
     background-size: contain;
     background-repeat: no-repeat;
