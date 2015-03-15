@@ -4,7 +4,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
+        <ul class="social-media-list">
           <li>
 			<a href="https://facebook.com/khalweir" target="_blank">			
 		      <i class="ss-facebook"></i>
@@ -41,9 +41,13 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-		<ul class="social-media-list">
-          <li><a href="mailto:{{ site.email }}"><i class="ss-mail"></i>&nbsp;{{ site.email }}</a></li>
-          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="ss-rss"></i>&nbsp;RSS</a></li>
+		<ul class="social-media-list" style="float:right;">
+          <li>
+			<a href="mailto:{{ site.email }}"><i class="ss-mail"></i>&nbsp;{{ site.email }}</a>&nbsp;
+		  </li>
+		  <li>
+			<a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="ss-rss"></i>&nbsp;RSS</a>
+		  </li>
 		</ul>
       </div>
     </div>
