@@ -107,8 +107,9 @@
 }
 
 .floated-image {
-	padding: $spacing-unit /2;
-	margin-right:  10px;
+	margin-bottom:10px;
+	display:block;
+	padding-right: $spacing-unit /2;
 }
 
 /**
