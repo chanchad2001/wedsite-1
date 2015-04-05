@@ -4,8 +4,4 @@ title: The Wedding
 permalink: /thewedding/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We'll be getting married in Sarah's home town of Binghamton, NY on September 19th, assuming everything goes well with the [visa application](www.http://jekyllrb.com "visa application"). Nearer the time we'll be updating this page to include all the important information you'll need to get there and enjoy the day with us.
