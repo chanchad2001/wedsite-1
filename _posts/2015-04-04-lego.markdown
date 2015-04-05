@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Lego
+date:   2015-03-15 23:41:15
+author: Khal
+---
+
+![Lego us]({{ site.baseurl }}/images/lego_us.jpg)
+
+![Lego us at work]({{ site.baseurl }}/images/working_us.jpg)
+
+![Lego alter egos]({{ site.baseurl }}/images/alter_egos.jpg)
