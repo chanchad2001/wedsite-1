@@ -5,8 +5,8 @@ date:   2015-03-15 23:41:15
 author: Khal
 ---
 
-![Lego us]({{ site.baseurl }}/images/lego_us.jpg)
+![Lego us]({{ site.baseurl }}/images/minifig_us.jpg)
 
-![Lego us at work]({{ site.baseurl }}/images/working_us.jpg)
+![Lego us at work]({{ site.baseurl }}/images/minifig_working_us.jpg)
 
-![Lego alter egos]({{ site.baseurl }}/images/alter_egos.jpg)
+![Lego alter egos]({{ site.baseurl }}/images/minifig_alter_egos.jpg)
