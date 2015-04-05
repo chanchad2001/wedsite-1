@@ -10,7 +10,7 @@ author: Khal
 I'd known for a while that Sarah was 'the one' and earlier this year I decided that it was about time I did something about it. We'd already arranged that she'd be visiting London in mid February, so I set about finding the perfect ring.
 
 
-My research included visiting several jewellers in Hatton Gardens, the diamond district of London and hours spent researching diamonds and rings online. I considered Sarah's work and sought something practical yet unique. I settled on certain style and narrowed down my choice of jewellers, after a few more questions and some good customer service I customised and ordered the ring. 
+My research included visiting several jewellers in Hatton Gardens, the diamond district of London and hours spent researching diamonds and rings online. I considered Sarah's work and sought something practical yet unique. I eventually settled on certain style and a short list of jewellers, after a few more questions and some good customer service I customised and ordered the ring. 
 
 
 Sarah arrived at Heathrow after a restless red-eye flight, I had to contain my excitement and tried my best to be patient as Sarah napped. Eventually Sarah woke up and I convinced her it was a good idea to go for a walk, despite the fact by now it was getting colder and dark.
